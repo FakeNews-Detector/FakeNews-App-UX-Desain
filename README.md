@@ -9,3 +9,4 @@ setelah itu membuat mockup yang berpatokan pada user-flow yang sudah dibuat dan 
 untuk pengerjaan mockup memakan waktu kurang lebih 2 minggu
 setelah mockup selesai kemudian tim UI/UX membuat desain utama untuk dikembangkan menjadi aplikasi
 waktu pengerjaan finish desain memakan waktu 2 minggu kemudian desain diberikan kepada backend aplikasi untuk pembuatan aplikasi
+Dan tahap akhir adalah pembuatan desain system diurutkan berdasarkan kategori seperti button,kategori dkk.
