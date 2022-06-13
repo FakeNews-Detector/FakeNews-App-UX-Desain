@@ -1,7 +1,7 @@
 # FakeNews-App-UX-Desain
-FakeNews App-UX Desain
+FakeNews App-UX Desain CC22-PS051
 
-This read me contains the steps in the formation of UI/UX.
+# This read me contains the steps in the formation of UI/UX.
 
 1. At the beginning is to make research designs based on the chosen theme according to the theme that has been determined by the team.
 2. Then create a user-flow for planning user activities on the application
